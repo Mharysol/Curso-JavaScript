@@ -1,6 +1,7 @@
 
 //este es el mensaje de bievenida
-console.log ("esta es la puerta de entrada al proyecto");
+console.log ("Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo");
+
 /* Esta es la puerta
 intermedia, vamos a la 
 ultima linea de codigo
